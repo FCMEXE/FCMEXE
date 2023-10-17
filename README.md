@@ -18,6 +18,6 @@ Minhas Principais Linguagens de programação/Marcação:
 
 Meios de comunicação
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> --> Bluunt#4281
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""> --> scaller
 
 
