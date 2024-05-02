@@ -1,8 +1,8 @@
 
-## Olá! Caiu aqui no meu perfil? Prazer eu sou o Lucas Jesus.
+## Olá! Caiu aqui no meu perfil? Prazer eu sou o Felipe Camargo Mendonça.
 
--👨‍💻 Trabalhando só no back-end<br>
--📘 Estutando PHP
+-👨‍💻 Desenvolvendo<br>
+-📘 Estutando Aplicações Web
  
 
 <div>
